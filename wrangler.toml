@@ -3,6 +3,6 @@ main = "src/index.ts"
 compatibility_date = "2022-12-02"
 
 [vars]
-DOMAIN = "finsweet.com"
-SUBDOMAINS = "weglotuikit, cal-invite, class-adder-script-writer, class-adder, client-first, cms-library-beginner, cms-library-howto, cms-library-script-writer, cms-library, cookie-consent, growth, gtag, hacks-jquery, lottie-expert, lottieflow, memberstack-script-writer, scrollbar-styler, strategy, sweet-text, sweetjs, extension, attributes, 2021, fin-pro, jquery, developers, greenhouse, hacks-typescript, attributes.combos, recommended, plus, open-source.ts-utils"
-WEBFLOW_SUBDOMAIN = "wf"
+DOMAIN = "h.careers"
+SUBDOMAINS = "subscription"
+WEBFLOW_SUBDOMAIN = "main"
